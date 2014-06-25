@@ -1,4 +1,4 @@
-personal-api
+PHP RESTful Personal Api
 ============
 
 A simple personal RESTful API written in php. It returns data in JSON format. It needs an api key to work, and the key currently allows 40 api calls per day. It is build arount the logic of id's as a means to fetch differently groupped information. 
